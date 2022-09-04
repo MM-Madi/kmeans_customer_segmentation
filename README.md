@@ -8,6 +8,6 @@ In this (business) context the goal is to identify different sub-groups in the c
 
 In the data exploration phase I combine <ins>descriptive statistics, visualisation and statistical tests</ins> to understand the data, identify significant features and identify potential clusters. The data contains demographic information (Customer ID, age, gender, annual income) as well as information concerning consuming behaviour represented by a **Spending-Score**.
 
-<img width="328" alt="income_score_gender_graph" src="https://user-images.githubusercontent.com/99167342/188332254-ac67f555-ad83-49ca-b36e-55cdf18f3bb0.png">
+<img width="459" alt="income_score_gender_graph" src="https://user-images.githubusercontent.com/99167342/188332351-1e3f2152-70dd-4912-9bda-cbf36a0474c3.png">
 
 Data: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python.
