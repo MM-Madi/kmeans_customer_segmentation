@@ -10,6 +10,8 @@ In the data exploration phase I combine <ins>descriptive statistics, visualisati
 
 <img width="459" alt="income_score_gender_graph" src="https://user-images.githubusercontent.com/99167342/188332351-1e3f2152-70dd-4912-9bda-cbf36a0474c3.png">
 
-<img width="501" alt="clusters" src="https://user-images.githubusercontent.com/99167342/190926821-03efc1f5-aaf9-4281-998f-4bcf2fc97e3f.png">
+After fitting the model, the resulting clusters are visualised:
+
+<img width="491" alt="clusters" src="https://user-images.githubusercontent.com/99167342/192160661-4a93b010-b467-4953-bb29-b23f480551cf.png">
 
 Data: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python.
