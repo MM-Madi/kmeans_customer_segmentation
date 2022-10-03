@@ -6,7 +6,7 @@ In this (business) context the goal is to identify different sub-groups in the c
 
 In the data exploration phase I combine <ins>descriptive statistics, visualisation and significance checks</ins> to understand the data, identify significant features and potential clusters. The data contains demographic information (Customer ID, age, gender, annual income) as well as information concerning consuming behaviour represented by a **Spending-Score**.
 
-<img width="459" alt="income_score_gender_graph" src="https://user-images.githubusercontent.com/99167342/188332351-1e3f2152-70dd-4912-9bda-cbf36a0474c3.png">
+<img width="424" alt="pair_plot" src="https://user-images.githubusercontent.com/99167342/193678300-bbb4e1d6-9311-4267-8ec5-6fc96ba1541a.png">
 
 In accordance with model metricies, visualisation and following confirmation with statistical tests, segmentation on two features were identified as follows:
 
