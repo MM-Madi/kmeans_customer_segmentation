@@ -1,4 +1,4 @@
-# Customer Segmentation (Clustering) using K-Means - Conformed with Statistical Significance tests
+# Customer Segmentation (Clustering) using K-Means - Confirmed with Statistical Significance tests
 
 In this project I use an **unsupervised learning** method to solve a problem of **customer segmentation**. Using the **k-means** model for clustering I locate and classify customers that have similar consuming behaviour (spending habits) according to their characteristics. I check and confirm the results from the exploration and the clustering phases using different **statistical tests** including **t-tests**, **one-way anova** and **Tukey’s HSD**.
 
@@ -11,7 +11,7 @@ In the data exploration phase I combine <ins>descriptive statistics, visualisati
 In accordance with model metricies, visualisation and following confirmation with statistical tests, segmentation on two features were identified as follows:
 
 1. Based on the **Annual_Income** measure five segments of customers were identified that are defined according to a combination of their tendancy (High/Low) on both their annual income and their spending score:
-2. 
+
 <img width="504" alt="income_score" src="https://user-images.githubusercontent.com/99167342/193678477-0a1e6077-b705-4fa4-a568-3ed79c6d1c03.png">
 
 * <u>High-Low:</u> Income above 70k and Score under 40
@@ -21,6 +21,9 @@ In accordance with model metricies, visualisation and following confirmation wit
 * <u>Low-High:</u> Income under 40k and Score above 60
 
 2. Based on the **Age** measure two segments of customers were identified:
+
+<img width="493" alt="age_score" src="https://user-images.githubusercontent.com/99167342/193678648-2d4861f0-02e9-4a8f-b80d-1522b5251388.png">
+
 * <u>Under</u> 40 years old
 * <u>Above 40</u> years old
 
