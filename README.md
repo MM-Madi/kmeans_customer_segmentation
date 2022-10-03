@@ -11,13 +11,14 @@ In the data exploration phase I combine <ins>descriptive statistics, visualisati
 In accordance with model metricies, visualisation and following confirmation with statistical tests, segmentation on two features were identified as follows:
 
 1. Based on the **Annual_Income** measure five segments of customers were identified that are defined according to a combination of their tendancy (High/Low) on both their annual income and their spending score:
+2. 
+<img width="504" alt="income_score" src="https://user-images.githubusercontent.com/99167342/193678477-0a1e6077-b705-4fa4-a568-3ed79c6d1c03.png">
+
 * <u>High-Low:</u> Income above 70k and Score under 40
 * <u>Average-Average:</u> Income between 40k-75k and Score between 35-60
 * <u>High-High:</u> Income above 70k and Score above 60
 * <u>Low-Low:</u> Income under 40k and Score under 40
 * <u>Low-High:</u> Income under 40k and Score above 60
-
-<img width="491" alt="clusters" src="https://user-images.githubusercontent.com/99167342/192160661-4a93b010-b467-4953-bb29-b23f480551cf.png">
 
 2. Based on the **Age** measure two segments of customers were identified:
 * <u>Under</u> 40 years old
